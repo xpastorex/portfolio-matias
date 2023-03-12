@@ -7,9 +7,9 @@ function Home() {
   return (
     <div
       id="home"
-      className=" flex flex-col justify-around items-center ease-in-out duration-150 text-white md:flex-row pt-32 md:pt-0"
+      className=" flex flex-col justify-around items-center ease-in-out duration-150 text-white lg:flex-row pt-32 md:pt-0"
     >
-      <div className="flex h-screen w-4/5 md:w-1/2 md:h-1/3 flex-col justify-evenly text-center bg-transparent text-black dark:text-white z-10 rounded-md md:rounded-full md:bg-blue-500 dark:bg-indigo-500 md:p-28 shadow-2xl shadow-blue-500">
+      <div className="flex h-screen w-4/5 lg:w-1/2 lg:h-1/3 flex-col justify-evenly text-center bg-transparent text-black dark:text-white z-10 rounded-md lg:rounded-full lg:bg-blue-500 dark:bg-indigo-500 lg:p-28 shadow-2xl shadow-blue-500">
         <h1 className=" text-3xl md:text-5xl font-bold">Hi, My name is Matias Campos</h1>
         <span className="md:text-2xl pt-12 md:pt-0">
           This <strong>Web Site</strong> is made with:

@@ -23,7 +23,7 @@ function NavBar({ handleThemeSwitch, theme }) {
           <a href="#project" className="hover:scale-110 ease-in-out duration-150">
             <li>Projects</li>
           </a>
-          <a href="#" className="hover:scale-110 ease-in-out duration-150">
+          <a href="#contact" className="hover:scale-110 ease-in-out duration-150">
             <li>Contact Me</li>
           </a>
         </ul>
